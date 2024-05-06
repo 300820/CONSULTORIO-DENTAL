@@ -1,0 +1,42 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #c39bd3;
+    height: 100vh;
+
+}
+.panel-info {
+    background-color: transparent;
+}
+ 
+
+.panel-title {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 16px;
+    background-color: transparent;
+    background-color: transparent;
+}
+.panel-heading {
+    color: black;
+    background-color:transparent;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.428571429;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-top-color: transparent;
+    border-right-color: transparent;
+    border-bottom-color: green;
+    border-left-color: black;
+    border-radius: 5px;
+    user-select: none;
+}
